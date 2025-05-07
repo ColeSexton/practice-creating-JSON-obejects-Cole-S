@@ -2,7 +2,7 @@
     "title":"Blue Velvet",
     "year": 1986,
     "director":"David Lynch",
-    "isAvailible": true,
+    "isAvailable": true,
     "genres": ["drama","avante-garde","suspense"],
     "cast":[
         {"name": "Kyle Maclachlan", "role": "Lead"},
